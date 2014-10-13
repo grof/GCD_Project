@@ -73,7 +73,7 @@ The data contained in the summary table called "subject-activity-means.txt" is t
 
 The table is keyed on "Subject" and "Activity".
 
-All the remaining 79 variables that are named "\<measurement\>_avg" refer to the average of the measurements on the mean and standard deviation of measurements captured by the mobile device.  Each \<measurement\> refer to a variable name from the original data set which was described as follows by the authors of the study:
+All the remaining 79 variables that are named "\<measurement\>_avg" refer to the average of the measurements on the mean and standard deviation of measurements captured by the mobile device.  Each \<measurement\> refers to a variable name from the original data set which was described as follows by the authors of the study:
 
 >The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz.
 
